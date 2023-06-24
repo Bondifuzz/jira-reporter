@@ -1,4 +1,4 @@
-# jira-reporter
+# Jira-reporter
 
 ## Contributing
 
